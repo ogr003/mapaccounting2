@@ -9,8 +9,8 @@ index = {"Card": "00_core.ipynb",
 
 modules = ["core.py"]
 
-doc_url = "https://ogr003.github.io/mapaccounting/"
+doc_url = "https://ogr003.github.io/mapaccounting2/"
 
-git_url = "https://github.com/ogr003/mapaccounting/tree/master/"
+git_url = "https://github.com/ogr003/mapaccounting2/tree/master/"
 
 def custom_doc_links(name): return None
